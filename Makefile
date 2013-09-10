@@ -1,2 +1,2 @@
 project:
-	cd template; make $(PRJLANG)
+	cd template; make project

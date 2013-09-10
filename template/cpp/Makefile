@@ -1,1 +1,2 @@
-all:
+project:
+	echo "test"
